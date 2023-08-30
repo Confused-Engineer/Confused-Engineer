@@ -1,6 +1,6 @@
 - Hi, I’m @Confused-Engineer
 - I'm focused on personal projects I can hopefully share with others to engage interest
-- I'm currently finishing a degree in Electrical and Computer Engineering.
+- I'm have a degree in Electrical and Computer Engineering.
 - Reach out to me on twitter @Confused_EG
 
 <!---
