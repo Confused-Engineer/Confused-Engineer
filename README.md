@@ -1,7 +1,6 @@
 - Hi, I’m @Confused-Engineer
 - I'm focused on personal projects I can hopefully share with others to engage interest
-- I'm have a degree in Electrical and Computer Engineering.
-- Reach out to me on twitter @Confused_EG
+- I have a degree in Electrical and Computer Engineering.
 
 <!---
 Confused-Engineer/Confused-Engineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
